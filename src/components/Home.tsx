@@ -10,7 +10,8 @@ const Home = () => {
       <div className="flex flex-col">
         <h1 className="text-4xl md:text-6xl font-bold text-center md:text-left mt-4 md:mt-0">
           Bonjour, <br /> je suis{" "}
-          <span className="text-accent">Franchesco</span>, <br />
+          <span className="text-accent">Franchesco</span>
+          <br />
         </h1>
         <p className="text-md md:text-xl text-center md:text-left mt-4">
           Je suis un développeur fullstack mobile et web <br /> passionné par la
