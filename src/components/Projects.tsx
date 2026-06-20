@@ -19,7 +19,7 @@ const projects = [
   {
     id: 2,
     title: "Online Store",
-    description: "E-commerce website for selling products online.",
+    description: "Application web de commerce en ligne.",
     technologies: ["React", "JavaScript", "Firebase", "HTML", "SCSS"],
     demoLink: "https://www.youtube.com/watch?v=kyYIE2wrOFE",
     repoLink: "https://github.com/Spirituel-Franchesco/Online-Store-Web3",
