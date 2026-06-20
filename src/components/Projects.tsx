@@ -27,12 +27,12 @@ const projects = [
   },
   {
     id: 3,
-    title: "Mini E-commerce en Android",
+    title: "Osullivan Movies App",
     description:
-      "Application Android native avec catalogue de produits, panier d'achat et persistance locale via SQLite ",
-    technologies: ["Java", "XML", "SQL"],
-    demoLink: "https://www.youtube.com/watch?v=kyYIE2wrOFE",
-    repoLink: "https://github.com/Spirituel-Franchesco/OsullivanStore",
+      "Application mobile de catalogue de films avec mini-jeu de quiz intégré.",
+    technologies: ["Java", "XML", "SQLite"],
+    demoLink: "https://youtu.be/sMowIBdefFc",
+    repoLink: "https://github.com/Spirituel-Franchesco/Osullivan-Movies-App",
     image: img3,
   },
 ];
