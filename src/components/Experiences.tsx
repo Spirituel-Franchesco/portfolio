@@ -10,10 +10,9 @@ import imgSCSS from "../assets/techno/scss.png";
 import imgTypeScript from "../assets/techno/typescript.svg";
 import imgTailwind from "../assets/techno/tailwind.png";
 import wintechnologie from "../assets/companies/winlogo.png";
-import Nextjs from "../assets/techno/next-js.png";
-import Stripe from "../assets/techno/stripe.png";
-import Vercel from "../assets/techno/vercel.png";
-
+import Nextjs from "../assets/techno/Next-js.png";
+import Stripe from "../assets/techno/stripe-logo.png";
+import Vercel from "../assets/techno/Vercel.png";
 import { FaReact } from "react-icons/fa";
 
 const skills = [
