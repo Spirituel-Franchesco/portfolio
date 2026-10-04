@@ -18,7 +18,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "Online Store",
+    title: "Chief Oasis Store",
     description: "Boutique e-commerce full stack",
     technologies: [
       "Next.js",

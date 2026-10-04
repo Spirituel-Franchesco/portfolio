@@ -10,6 +10,9 @@ import imgSCSS from "../assets/techno/scss.png";
 import imgTypeScript from "../assets/techno/typescript.svg";
 import imgTailwind from "../assets/techno/tailwind.png";
 import wintechnologie from "../assets/companies/winlogo.png";
+import Nextjs from "../assets/techno/next-js.png";
+import Stripe from "../assets/techno/stripe.png";
+import Vercel from "../assets/techno/vercel.png";
 
 import { FaReact } from "react-icons/fa";
 
@@ -23,6 +26,9 @@ const skills = [
   { id: 7, name: "SCSS", image: imgSCSS },
   { id: 8, name: "TypeScript", image: imgTypeScript },
   { id: 9, name: "Tailwind CSS", image: imgTailwind },
+  { id: 10, name: "Next.js", image: Nextjs },
+  { id: 11, name: "Stripe", image: Stripe },
+  { id: 12, name: "Vercel", image: Vercel },
 ];
 
 const experiences = [
@@ -48,6 +54,19 @@ const experiences = [
       "Conception et développement d'une application mobile multiplateforme destinée aux nouveaux arrivants au Québec.",
       "Mise en place du backend complet avec Firebase Authentication et Firestore pour la gestion des utilisateurs et des données.",
       "Développement des interfaces avec React Native et Expo, intégration de l'API Open Meteo pour les données climatiques et Google Maps pour la géolocalisation des ressources.",
+    ],
+    image: null,
+    useIcon: true,
+  },
+  {
+    id: 3,
+    rôle: "Développeur Full Stack",
+    company: "Projet Personnel — Chief Oasis Store",
+    duration: "2026 - Présent",
+    description: [
+      "Conception et développement d'une boutique e-commerce full stack avec Next.js (App Router), TypeScript, Tailwind CSS et shadcn/ui, adaptée en site de vente en gros à partir d'un défi lancé par un client non-développeur.",
+      "Mise en place du backend avec Supabase (PostgreSQL, Auth, Storage), sécurisé par Row Level Security, avec panier persistant côté serveur, gestion des stocks et avis produits.",
+      "Intégration des paiements Stripe (mode test) avec webhook, tableau de bord administrateur protégé (produits, catégories, commandes) et déploiement continu sur Vercel. V1 livrée et testée par le client, V2 en cours.",
     ],
     image: null,
     useIcon: true,
