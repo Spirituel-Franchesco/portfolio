@@ -37,7 +37,7 @@ const footer = () => {
             <FaLinkedin className="w-6 h-6 text-current" />
           </a>
           <a
-            href="/CV_Franchesco_Jordan_A26.pdf"
+            href="/CV_Franchesco_Seugue_Acensi.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition-colors duration-200"
