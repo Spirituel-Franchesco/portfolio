@@ -19,10 +19,17 @@ const projects = [
   {
     id: 2,
     title: "Online Store",
-    description: "Application web de commerce en ligne.",
-    technologies: ["React", "JavaScript", "Firebase", "HTML", "SCSS"],
-    demoLink: "https://www.youtube.com/watch?v=kyYIE2wrOFE",
-    repoLink: "https://github.com/Spirituel-Franchesco/Online-Store-Web3",
+    description: "Boutique e-commerce full stack",
+    technologies: [
+      "Next.js",
+      "TypeScript",
+      "Supabase",
+      "Stripe",
+      "Vercel",
+      "Tailwind CSS",
+    ],
+    demoLink: "https://timeless-culture.vercel.app/",
+    repoLink: "https://github.com/Spirituel-Franchesco/chief-oasis-store",
     image: img2,
   },
   {
